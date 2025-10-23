@@ -1,73 +1,127 @@
-# Welcome to your Lovable project
+# 🚀 Subhash Yadav — Personal Portfolio Website  
 
-## Project info
+> 💼 A sleek, responsive, and animated personal portfolio built with **React + Tailwind CSS**, featuring smooth **Framer Motion** transitions, an **EmailJS** contact form with **auto-reply**, and a professional dark aesthetic — fully deployed on **Vercel** ⚡  
 
-**URL**: https://lovable.dev/projects/be373351-4cbf-40ef-aad6-5774d3344f78
+---
 
-## How can I edit this code?
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,typescript,vercel,git,github,figma" alt="Tech Stack Icons" height="70"/>
+</p>
 
-There are several ways of editing your application.
+<p align="center">
+  <a href="https://subhash-yadav-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Live-Demo-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://vercel.com/new">
+    <img src="https://vercel.com/button" alt="Deploy to Vercel" />
+  </a>
+</p>
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/be373351-4cbf-40ef-aad6-5774d3344f78) and start prompting.
+## 🌟 Live Preview  
 
-Changes made via Lovable will be committed automatically to this repo.
+🌐 **[Visit My Portfolio → subhash-yadav-portfolio.vercel.app](https://subhash-yadav-portfolio.vercel.app)**  
 
-**Use your preferred IDE**
+![Portfolio Preview](https://via.placeholder.com/1200x600.png?text=Subhash+Yadav+Portfolio+Preview)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## ✨ Highlights  
 
-Follow these steps:
+🎨 **Modern UI/UX** — Clean dark gradient theme with subtle glassmorphism.  
+📱 **Fully Responsive** — Flawless experience across all screen sizes.  
+⚡ **Framer Motion Animations** — Elegant fades, slides, and microinteractions.  
+📧 **EmailJS Contact Form** — Sends messages straight to inbox.  
+🤖 **Auto-Reply System** — Instant acknowledgment to visitors.  
+🔔 **Interactive Toasts** — Real-time status updates via Sonner.  
+🧩 **Reusable Components** — Modular & maintainable codebase.  
+🔗 **Social Links Integrated** — GitHub, LinkedIn, and Email.  
+🚀 **Vercel Deployment** — Blazing-fast hosting and CI/CD.  
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🛠️ Tech Stack  
 
-# Step 3: Install the necessary dependencies.
-npm i
+| Layer | Technologies |
+|:--|:--|
+| **Frontend** | ⚛️ React 18 + TypeScript |
+| **Styling** | 🎨 Tailwind CSS |
+| **Animations** | 🕹️ Framer Motion |
+| **Icons** | 🧭 Lucide React |
+| **Notifications** | 🔔 Sonner |
+| **Email Service** | ✉️ EmailJS |
+| **Deployment** | 🚀 Vercel |
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+---
+
+## 📸 Screenshots  
+
+| Desktop View | Mobile View |
+|:-------------:|:------------:|
+| ![Desktop Screenshot](https://via.placeholder.com/900x500.png?text=Desktop+Preview) | ![Mobile Screenshot](https://via.placeholder.com/350x700.png?text=Mobile+Preview) |
+
+> 🖼️ Replace these placeholders with your actual project screenshots.
+
+---
+
+## ⚙️ Setup & Installation  
+
+Clone the repository 🔽  
+
+```bash
+git clone https://github.com/Acrto3Hil3/your-portfolio.git
+cd your-portfolio
+
+Install dependencies 🧩
+npm install
+
+Create a .env file in the project root 📄
+VITE_EMAILJS_SERVICE_ID=your_service_id
+VITE_EMAILJS_TEMPLATE_ID=your_template_id
+VITE_EMAILJS_AUTOREPLY_TEMPLATE_ID=your_autoreply_template_id
+VITE_EMAILJS_PUBLIC_KEY=your_public_key
+
+Run the development server 💻
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+📬 Contact Form Integration
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+💌 EmailJS + Auto-Reply System
 
-**Use GitHub Codespaces**
+Sends messages directly to your inbox.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Automatically replies to visitors via your EmailJS auto-reply template.
 
-## What technologies are used for this project?
+Uses Sonner for real-time success/error toast notifications.
 
-This project is built with:
+🧠 What I Learned
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Building scalable React components with Tailwind CSS.
 
-## How can I deploy this project?
+Integrating and securing external APIs using EmailJS.
 
-Simply open [Lovable](https://lovable.dev/projects/be373351-4cbf-40ef-aad6-5774d3344f78) and click on Share -> Publish.
+Designing motion-first UIs using Framer Motion.
 
-## Can I connect a custom domain to my Lovable project?
+Hosting and optimizing modern web apps with Vercel.
 
-Yes, you can!
+👨‍💻 Author
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Subhash Yadav
+💻 Backend Developer (Java | MERN | Spring Boot)
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+🌐 Portfolio: (https://subhash-yadav-portfolio.vercel.app)
+
+🐙 GitHub: (https://github.com/Acrto3Hil3/my-portfolio)
+
+💼 LinkedIn:(https://linkedin.com/in/subhash-yadav-7536651b7)
+
+🧾 License
+
+This project is licensed under the MIT License — you’re free to use, modify, and share it with proper attribution.
+
+🌈 Developer Quote
+
+“This portfolio isn’t just a website — it’s my journey, my story, and my digital fingerprint ✨”
+
+<p align="center"> Made with ❤️ by <b>Subhash Yadav</b> — 2025 <br/> “Code. Create. Connect.” </p> ```
